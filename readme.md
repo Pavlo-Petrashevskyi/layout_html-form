@@ -10,7 +10,7 @@ ___
 
 ## The task:
 Create HTML page with form. On form submit send form data to `https://mate-academy-form-lesson.herokuapp.com/create-application`
-
+ 
 ![screenshot](./references/form-example.png)
 
 ## Notes
